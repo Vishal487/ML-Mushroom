@@ -1,4 +1,5 @@
 # ML-Mushroom
+# Ensemble Classifier: RandomForestClassifier
 
 In this notebook we were supposed to classify a mushroom, given its descriptions.
 
@@ -58,5 +59,6 @@ Given a description of a Mushroom build a model to determine if it's poisonous o
 Actually we don't need to understand the meaning of above description.
 
 
-
+# Model
+We use RandomForestClassifier classifier to model the problem and we got 100% accuracy :)
 
